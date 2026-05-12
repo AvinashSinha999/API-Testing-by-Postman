@@ -8,7 +8,6 @@
 ![JSON](https://img.shields.io/badge/JSON-Data-lightblue?logo=json)
 ![Node.js](https://img.shields.io/badge/Node.js-JSON%20Server-brightgreen?logo=node.js)
 
-
 ---
 
 ## 🗂️ Overview
