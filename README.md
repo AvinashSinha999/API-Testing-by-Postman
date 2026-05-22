@@ -70,6 +70,7 @@ newman run "<YOUR_COLLECTION_URL_OR_FILE_PATH>" ^
 
 👤 Avinash Sinha
 
+
 ---
 
 📝 This repository is created exclusively for **educational and practice use**.
