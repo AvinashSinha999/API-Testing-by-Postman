@@ -10,8 +10,8 @@
 
 ---
 
-
 ## 🗂️ Overview
+
 
 This repository contains multiple **API testing practice projects** created using **Postman**.
 
@@ -70,7 +70,6 @@ newman run "<YOUR_COLLECTION_URL_OR_FILE_PATH>" ^
 ## 📌 Author
 
 👤 Avinash Sinha
-
 
 ---
 
