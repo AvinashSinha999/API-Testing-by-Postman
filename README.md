@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 🗂️ Overview
 
 This repository contains multiple **API testing practice projects** created using **Postman**.
