@@ -62,7 +62,7 @@ newman run "<YOUR_COLLECTION_URL_OR_FILE_PATH>" ^
 
 #### ✅ Sample Newman HTML Report
 
-<img width="1920" height="1656" alt="file" src="https://github.com/user-attachments/assets/93929e0a-517f-45d0-87d2-c4d2878ff35b" />
+<img width="1920" height="1654" alt="image" src="https://github.com/user-attachments/assets/f8c62e26-549b-4fdb-85a8-dfe156e0bfc1" />
 
 ---
 
