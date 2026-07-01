@@ -11,7 +11,7 @@
 ![JSON Server](https://img.shields.io/badge/JSON%20Server-Mock%20API-4CAF50)
 ![CSV](https://img.shields.io/badge/CSV-Data--Driven%20Testing-E67E22)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
-
+![Newman](https://img.shields.io/badge/Newman-CLI%20Automation-00A98F)
 
 </p>
 
