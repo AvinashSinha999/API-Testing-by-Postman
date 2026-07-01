@@ -4,11 +4,14 @@
 
 <p align="center">
 
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-0A66C2)
-![SOAP API](https://img.shields.io/badge/SOAP-API-lightgrey)
-![JSON](https://img.shields.io/badge/JSON-Data-lightblue?logo=json)
-![JSON Server](https://img.shields.io/badge/JSON%20Server-Mock%20API-success)
+![SOAP API](https://img.shields.io/badge/SOAP-XML%20Testing-6C757D)
+![JSON](https://img.shields.io/badge/JSON-Data-5E5CFF?logo=json&logoColor=white)
+![JSON Server](https://img.shields.io/badge/JSON%20Server-Mock%20API-4CAF50)
+![CSV](https://img.shields.io/badge/CSV-Data--Driven%20Testing-E67E22)
+![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
+
 
 </p>
 
