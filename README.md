@@ -4,7 +4,6 @@
 
 <p align="center">
 
-
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-0A66C2)
 ![SOAP API](https://img.shields.io/badge/SOAP-XML%20Testing-6C757D)
