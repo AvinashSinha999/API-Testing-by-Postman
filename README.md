@@ -4,6 +4,7 @@
 
 <p align="center">
 
+
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-0A66C2)
 ![SOAP API](https://img.shields.io/badge/SOAP-XML%20Testing-6C757D)
@@ -12,6 +13,7 @@
 ![CSV](https://img.shields.io/badge/CSV-Data--Driven%20Testing-E67E22)
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-CLI%20Automation-00A98F)
+
 
 </p>
 
