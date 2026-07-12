@@ -1,6 +1,6 @@
 # 🚀 Postman API Testing Practice Repository
 
-> A collection of hands-on API testing projects built with **Postman**, covering **REST APIs**, **SOAP APIs**, **Mock APIs**, **Data-Driven Testing**, **End-to-End workflows**, and **Newman CLI automation**.
+> A hands-on collection of **Postman API Testing** projects covering **REST APIs**, **SOAP APIs**, **Mock APIs**, **Data-Driven Testing**, **End-to-End Workflows**, and **Newman CLI Automation**.
 
 <p align="center">
 
@@ -19,18 +19,18 @@
 
 # 🗂️ Overview
 
-This repository contains a collection of **Postman API Testing projects** designed to strengthen API testing skills through practical, real-world examples.
+This repository contains a collection of **Postman API Testing** projects created to strengthen API testing skills through practical, real-world examples.
 
-The projects cover **REST APIs**, **SOAP APIs**, **JSON Server mock APIs**, **Data-Driven Testing using CSV files**, **End-to-End workflows**, and **Newman CLI automation**, making it an excellent learning resource for beginners and intermediate API testers.
+The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**, **Data-Driven Testing with CSV files**, **End-to-End API workflows**, and **Newman CLI automation**, making this repository a comprehensive learning resource for mastering API testing with Postman.
 
 ---
 
-# ✨ Features
+# ✨ Repository Highlights
 
 - ✅ REST API Testing
 - ✅ SOAP API Testing
 - ✅ CRUD Operations
-- ✅ JSON Server Mock APIs
+- ✅ Mock APIs using JSON Server
 - ✅ Data-Driven Testing using CSV
 - ✅ End-to-End API Workflow Testing
 - ✅ Postman Collection Runner
@@ -43,15 +43,15 @@ The projects cover **REST APIs**, **SOAP APIs**, **JSON Server mock APIs**, **Da
 
 | Technology | Usage |
 |------------|-------|
-| Postman | API Testing & Automation |
-| REST APIs | CRUD Operations |
-| SOAP APIs | XML Request & Response Validation |
-| JSON Server | Mock API Backend |
-| CSV | Data-Driven Testing |
-| JSON | Request & Response Payloads |
-| Node.js | Runtime Environment |
-| Newman | CLI Collection Execution |
-| HTML Extra Reporter | Interactive HTML Reports |
+| **Postman** | API Testing & Automation |
+| **REST APIs** | CRUD Operations |
+| **SOAP APIs** | XML Request & Response Validation |
+| **JSON Server** | Mock API Backend |
+| **CSV** | Data-Driven Testing |
+| **JSON** | Request & Response Payloads |
+| **Node.js** | Runtime Environment |
+| **Newman** | CLI Collection Execution |
+| **HTML Extra Reporter** | Interactive HTML Reports |
 
 ---
 
@@ -85,18 +85,18 @@ Postman_API_Testing/
 
 ---
 
-# 📚 Learning Projects
+# 📚 Projects Included
 
-| No. | Project | Files | Description |
-|----:|---------|-------|-------------|
-| **01** | JSON Server (Dummy APIs) | `Project 1 - JSON Server (Dummy APIs).postman_collection.json` | CRUD testing using mock API endpoints |
-| **02** | SOAP API Testing | `Project 2 - SOAP.postman_collection.json` | XML request and response validation |
-| **03** | Restful Booker | `Project 3 - Restful Booker.postman_collection.json` | CRUD operations using Restful Booker APIs |
-| **04** | End-to-End Scenario Testing | `Project 4 - E2E Scenario Testing.postman_collection.json` | Complete API workflow testing |
-| **05** | Data-Driven Testing | `Project 5 - Data Driven Testing.postman_collection.json`<br>`Project 5 - Data Driven Testing.postman_test_runner.json`<br>`Project 5 - CSV File for Data Driven Testing.csv` | CSV-driven parameterized API testing |
-| **06** | Reqres API | `Project 6 - Reqres.postman_collection.json` | CRUD operations and response validation |
-| **07** | JSONPlaceholder | `Project 7 - JSONPlaceholder.postman_collection.json` | REST API testing practice |
-| **08** | FakeRestAPI Authors | `Project 8 - FakeRestAPI_Authors.postman_collection.json` | CRUD operations on Authors resource |
+| No. | Project | Description |
+|----:|---------|-------------|
+| **01** | JSON Server (Dummy APIs) | CRUD testing using mock API endpoints |
+| **02** | SOAP API Testing | XML request and response validation |
+| **03** | Restful Booker | CRUD operations using Restful Booker APIs |
+| **04** | End-to-End Scenario Testing | Complete API workflow testing |
+| **05** | Data-Driven Testing | CSV-driven parameterized API testing |
+| **06** | Reqres API | CRUD operations and response validation |
+| **07** | JSONPlaceholder | REST API testing practice |
+| **08** | FakeRestAPI Authors | CRUD operations on Authors resource |
 
 ---
 
@@ -110,7 +110,7 @@ git clone https://github.com/<your-username>/<repository-name>.git
 
 ### Install Dependencies
 
-If you're using the JSON Server project:
+If you are using the **JSON Server** project:
 
 ```bash
 npm install
@@ -128,7 +128,7 @@ Import the required **Postman Collection (.json)** into Postman.
 
 ### Execute Collections
 
-Collections can be executed using:
+Run the collections using either:
 
 - **Postman Collection Runner**
 - **Newman CLI**
@@ -159,13 +159,28 @@ newman run "<YOUR_COLLECTION_PATH>" ^
 
 ---
 
-# 📊 Sample Newman HTML Report
+# 📊 Newman HTML Report
 
-Generate a report after executing your collection using Newman.
+Generate an interactive HTML report after executing your collection with Newman.
 
 <p align="center">
 <img width="1000" src="https://github.com/user-attachments/assets/f8c62e26-549b-4fdb-85a8-dfe156e0bfc1" alt="Newman HTML Report">
 </p>
+
+The generated report provides detailed execution statistics, request and response information, assertion results, response times, and overall collection execution summaries.
+
+---
+
+# ⭐ Repository Highlights
+
+- 📮 Covers REST and SOAP API testing with Postman
+- 📂 Includes eight practical API testing projects
+- 🔄 Demonstrates complete CRUD operations
+- 🧪 Supports Data-Driven Testing using CSV files
+- 🖥️ Includes Mock API development using JSON Server
+- ⚡ Automates collection execution with Newman CLI
+- 📊 Generates interactive HTML execution reports
+- 🏗️ Well-organized project structure for learning and practice
 
 ---
 
@@ -173,10 +188,10 @@ Generate a report after executing your collection using Newman.
 
 **Avinash Sinha**
 
-If you found this repository helpful, consider giving it a ⭐ on GitHub.
+If you found this repository useful, consider giving it a ⭐.
 
 ---
 
 # 📄 License
 
-This repository is intended for **educational and practice purposes**.
+This repository is intended for **educational**, **learning**, and **practice purposes**.
