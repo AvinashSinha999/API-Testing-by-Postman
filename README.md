@@ -13,7 +13,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Runtime-339933?logo=node.js&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-CLI%20Automation-00A98F)
 
-
 </p>
 
 ---
