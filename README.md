@@ -98,7 +98,6 @@ Postman_API_Testing/
 | **07** | JSONPlaceholder | REST API testing practice |
 | **08** | FakeRestAPI Authors | CRUD operations on Authors resource |
 
-
 ---
 
 
