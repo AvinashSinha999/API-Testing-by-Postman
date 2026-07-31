@@ -82,7 +82,6 @@ Postman_API_Testing/
 ├── .gitignore
 └── README.md
 ```
-
 ---
 
 # 📚 Projects Included
