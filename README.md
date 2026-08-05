@@ -23,7 +23,6 @@ This repository contains a collection of **Postman API Testing** projects create
 
 The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**, **Data-Driven Testing with CSV files**, **End-to-End API workflows**, and **Newman CLI automation**, making this repository a comprehensive learning resource for mastering API testing with Postman.
 
-
 ---
 
 # ✨ Repository Highlights
