@@ -171,7 +171,6 @@ The generated report provides detailed execution statistics, request and respons
 
 ---
 
-
 # ⭐ Repository Highlights
 
 - 📮 Covers REST and SOAP API testing with Postman
