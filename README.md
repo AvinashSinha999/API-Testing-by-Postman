@@ -169,7 +169,9 @@ Generate an interactive HTML report after executing your collection with Newman.
 
 The generated report provides detailed execution statistics, request and response information, assertion results, response times, and overall collection execution summaries.
 
+
 ---
+
 
 # ⭐ Repository Highlights
 
