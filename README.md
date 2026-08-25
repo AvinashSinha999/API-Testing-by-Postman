@@ -53,7 +53,6 @@ The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**
 | **Newman** | CLI Collection Execution |
 | **HTML Extra Reporter** | Interactive HTML Reports |
 
-
 ---
 
 # 🏗️ Project Structure
