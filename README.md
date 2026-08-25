@@ -53,7 +53,9 @@ The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**
 | **Newman** | CLI Collection Execution |
 | **HTML Extra Reporter** | Interactive HTML Reports |
 
+
 ---
+
 
 # 🏗️ Project Structure
 
@@ -63,7 +65,7 @@ Postman_API_Testing/
 ├── collections/
 │   ├── Project 1 - JSON Server (Dummy APIs).postman_collection.json
 │   ├── Project 2 - SOAP.postman_collection.json
-│   ├── Project 3 - Restful Booker.postman_collection.json
+│   ├── Project 3 - RESTful Booker.postman_collection.json
 │   ├── Project 4 - E2E Scenario Testing.postman_collection.json
 │   ├── Project 5 - Data Driven Testing.postman_collection.json
 │   ├── Project 5 - Data Driven Testing.postman_test_runner.json
