@@ -100,7 +100,6 @@ Postman_API_Testing/
 
 ---
 
-
 # ▶️ Getting Started
 
 ### Clone the Repository
