@@ -55,7 +55,6 @@ The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**
 
 ---
 
-
 # 🏗️ Project Structure
 
 ```text
