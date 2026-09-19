@@ -37,7 +37,9 @@ The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**
 - ✅ Newman CLI Automation
 - ✅ HTML Extra Reporting
 
+
 ---
+
 
 # 🛠️ Tech Stack
 
