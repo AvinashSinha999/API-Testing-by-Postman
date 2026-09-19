@@ -40,7 +40,6 @@ The projects cover **REST APIs**, **SOAP APIs**, **Mock APIs using JSON Server**
 
 ---
 
-
 # 🛠️ Tech Stack
 
 | Technology | Usage |
